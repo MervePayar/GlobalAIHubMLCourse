@@ -1,4 +1,4 @@
-# GlobalAIHub
+# GlobalAIHubMLCourse
 
 
 #### Name :Merve 
