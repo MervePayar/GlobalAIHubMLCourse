@@ -5,5 +5,5 @@
 #### Surname: PAYAR
 #### E-mail: mpayar95@gmail.com
 
-## PROJECT NAME : 
+## PROJECT NAME : Classification of Wine Quality
 
